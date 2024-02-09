@@ -1,25 +1,25 @@
 import { Router } from "express";
 import bcrypt from "bcrypt";
-import UserData from "../model/user.model.js";
+import receptionData from "../model/reception.model.js";
 
 const router = Router();
 
-export async function saveUserData(req, res) {
+export async function saveRceptionData(req, res) {
   try {
-    //get form user
-    const { username, email, password } = req.body;
+    //get form reception
+    const { reception_place, email, password } = req.body;
     //validation
-    if (!username || !email || !password) {
+    if (!reception_place || !email || !password) {
       return res.status(400).send({
         message: "please fill all the field",
         success: false,
       });
     }
-    //eexisting user
-    const existingUser = await UserData.findOne({ email });
-    if (existingUser) {
+    //eexisting reception
+    const existingRception = await receptionData.findOne({ email });
+    if (existingRception) {
       return res.status(401).send({
-        message: "User already Exist",
+        message: "Rception already Exist",
         success: false,
       });
     }
@@ -27,13 +27,17 @@ export async function saveUserData(req, res) {
     //hash password
     const hashPassword = await bcrypt.hash(password, 10);
 
-    //save new User
-    const user = new UserData({ username, email, password: hashPassword });
-    await user.save();
+    //save new Rception
+    const Rception = new receptionData({
+      reception_place,
+      email,
+      password: hashPassword,
+    });
+    await Rception.save();
     return res.status(201).send({
-      message: "New User creaed",
+      message: "New Rception creaed",
       success: true,
-      user,
+      Rception,
     });
   } catch (error) {
     console.log(error);
@@ -45,7 +49,7 @@ export async function saveUserData(req, res) {
   }
 }
 
-export async function loginUser(req, res) {
+export async function loginRception(req, res) {
   try {
     //req from body
     const { email, password } = req.body;
@@ -56,14 +60,14 @@ export async function loginUser(req, res) {
         success: false,
       });
     }
-    const user = await UserData.findOne({ email });
-    if (!user) {
+    const Rception = await receptionData.findOne({ email });
+    if (!Rception) {
       return res.status(402).send({
         message: "Email not register",
         success: false,
       });
     }
-    const isMatch = await bcrypt.compare(password, user.password);
+    const isMatch = await bcrypt.compare(password, Rception.password);
     if (!isMatch) {
       //console.log(error);
       return res.status(403).send({
@@ -75,7 +79,7 @@ export async function loginUser(req, res) {
     return res.status(201).send({
       message: "Login sucessfull",
       success: true,
-      user,
+      Rception,
     });
   } catch (error) {
     console.log(error);
@@ -84,23 +88,5 @@ export async function loginUser(req, res) {
       success: false,
       error,
     });
-  }
-}
-
-export async function getUser(req, res) {
-  try {
-    const { username, email } = req.query;
-    let filter = {};
-
-    if (username && email) {
-      filter.username = username;
-      filter.email = email;
-    }
-
-    const users = await UserData.find(filter);
-    res.json(users);
-  } catch (error) {
-    console.error("Error fetching Users:", error);
-    res.status(500).json({ error: "Server error" });
   }
 }
