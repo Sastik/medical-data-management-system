@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Masi1",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "hospital": "Fortis Hospital",
+        "phone": "+91-33-6652 0000",
+        "image": "https://content.jdmagicbox.com/comp/tirupur/c3/9999px421.x421.181003185518.b1c3/catalogue/tirupur-home-care-and-nursing-service-pn-road-tirupur-home-nursing-services-5qdzxzpisz.jpg",
+        "public_rating": 4.8
+      },
+    {
+        "name": "Masi2",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "hospital": "Medica Superspecialty Hospital",
+        "phone": "+91-11-6600 5500",
+        "image": "https://www.homecarenursingbureau.com/assets/img/3.jpg",
+        "public_rating": 4.8
+      },
+    {
+        "name": "Masi3",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "hospital": "Medica Superspecialty Hospital",
+        "phone": "+91-44-8752 0000",
+        "image": "https://4.imimg.com/data4/NT/FA/MY-26798652/patient-care-taker-500x500.jpg",
+        "public_rating": 4.8
+      },
+    {
+        "name": "Masi4",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "hospital": "AMRI Hospitals",
+        "phone": "+91-33-6692 0000",
+        "image": "https://5.imimg.com/data5/TP/PN/JF/SELLER-34734599/caretakers-for-patients-at-home-500x500.jpg",
+        "public_rating": 4.8
+      },
+    {
+        "name": "Masi5",
+        "city": "Kolkata",
+        "state": "Ruby General Hospital",
+        "hospital": "Fortis Hospital",
+        "phone": "+91-22-6652 0000",
+        "image": "https://www.homecarenursingbureau.com/assets/img/3.jpg",
+        "public_rating": 4.8
+      },
+    {
+        "name": "Masi6",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "hospital": "Fortis Hospital",
+        "phone": "+91-33-6652 0000",
+        "image": "https://www.homecarenursingbureau.com/assets/img/3.jpg",
+        "public_rating": 4.8
+      },
+    {
+        "name": "Masi7",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "hospital": "Medica Superspecialty Hospital",
+        "phone": "+91-11-6600 5500",
+        "image": "https://5.imimg.com/data5/ANDROID/Default/2023/3/295979343/JN/NK/HG/161177334/product-jpeg-500x500.jpg",
+        "public_rating": 4.8
+      },
+    {
+        "name": "Masi8",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "hospital": "Medica Superspecialty Hospital",
+        "phone": "+91-44-8752 0000",
+        "image": "https://4.imimg.com/data4/IM/BN/MY-20272032/senior-citizen-care-taker-services-500x500.jpg",
+        "public_rating": 4.8
+      },
+    {
+        "name": "Masi9",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "hospital": "AMRI Hospitals",
+        "phone": "+91-33-6692 0000",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2022/4/AJ/WF/SF/140388712/home-patient-care-taker-services-500x500.jpg",
+        "public_rating": 4.8
+      },
+    {
+        "name": "Masi10",
+        "city": "Kolkata",
+        "state": "Ruby General Hospital",
+        "hospital": "Fortis Hospital",
+        "phone": "+91-22-6652 0000",
+        "image": "https://eminencehomecare.com/wp-content/uploads/2018/08/nursing..jpg",
+        "public_rating": 4.8
+      }
+]

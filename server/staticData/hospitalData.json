@@ -1,0 +1,463 @@
+[
+    {
+        "name": "Fortis Hospital",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "address": "730, Anandapur, E.M. Bypass Road, Kolkata, West Bengal 700107",
+        "phone": "+91-33-6652 0000",
+        "ambulance_mobile_number": "+91-33-987654321",
+        "type": "Private",
+        "website": "https://www.fortishealthcare.com/kolkata",
+        "image": "https://www.ihhhealthcare.com/images/default-source/sub-brands/fortis-escorts-hospital-amritsarb53cb399919c43e2af836e4ba7eff03f.jpg?Status=Master&sfvrsn=4aa0f044_2",
+        "opening_time": "24 hours",
+        "closing_time": "24 hours",
+        "location": "https://maps.google.com/maps?q=Fortis+Hospital+Kolkata",
+        "special_list": [
+            "Cardiology",
+            "Oncology",
+            "Gastroenterology",
+            "Pediatrics"
+        ],
+        "public_rating": 4.8
+    },
+    {
+        "name": "Medica Superspecialty Hospital",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "address": "127 Mukundapur, E.M. Bypass, Kolkata, West Bengal 700099",
+        "phone": "+91-33-6652 0000",
+        "ambulance_mobile_number": "+91-33-987654321",
+        "type": "Private",
+        "website": "https://www.medicahospitals.in",
+        "image": "https://content3.jdmagicbox.com/comp/kolkata/u5/033pxx33.xx33.110805105415.m8u5/catalogue/medica-superspecialty-hospital-mukundapur-kolkata-neurologists-f8qck.jpg?clr=006666",
+        "opening_time": "24 hours",
+        "closing_time": "24 hours",
+        "location": "https://maps.google.com/maps?q=Medica+Superspecialty+Hospital+Kolkata",
+        "special_list": [
+            "Neurology",
+            "Oncology",
+            "Gastroenterology",
+            "Orthopedics"
+        ],
+        "public_rating": 4.7
+    },
+    {
+        "name": "AMRI Hospitals",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "address": "JC - 16 & 17, Salt Lake City, Kolkata, West Bengal 700098",
+        "phone": "+91-33-6606 3800",
+        "ambulance_mobile_number": "+91-33-987654321",
+        "type": "Private",
+        "website": "https://www.amrihospitals.in",
+        "image": "https://doctorlistingingestionpr.blob.core.windows.net/doctorprofilepic/1670500242966_HospitalProfileImage_830330f9-fb77-47d8-b08b-010338dc6b10.png",
+        "opening_time": "24 hours",
+        "closing_time": "24 hours",
+        "location": "https://maps.google.com/maps?q=AMRI+Hospitals+Kolkata",
+        "special_list": [
+            "Cardiology",
+            "Neurology",
+            "Oncology",
+            "Nephrology"
+        ],
+        "public_rating": 4.5
+    },
+    {
+        "name": "Ruby General Hospital",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "address": "Kasba Golpark, E.M. Bypass, Kolkata, West Bengal 700107",
+        "phone": "+91-33-3987 9999",
+        "ambulance_mobile_number": "+91-33-987654321",
+        "type": "Private",
+        "website": "https://www.rubyhospital.com",
+        "image": "https://content.jdmagicbox.com/comp/kolkata/j2/033pxx33.xx33.130828153006.j9j2/catalogue/ruby-general-hospital-ltd-east-kolkata-township-kolkata-hospitals-1kxxumx1qc.jpg",
+        "opening_time": "24 hours",
+        "closing_time": "24 hours",
+        "location": "https://maps.google.com/maps?q=Ruby+General+Hospital+Kolkata",
+        "special_list": [
+            "Cardiology",
+            "Gastroenterology",
+            "Orthopedics",
+            "Urology"
+        ],
+        "public_rating": 4.4
+    },
+    {
+        "name": "IQ City Medical College & Hospital",
+        "city": "Durgapur",
+        "state": "West Bengal",
+        "address": "Durgapur - Haldia Road, Bidhannagar, Durgapur, West Bengal 713206",
+        "phone": "+91-343-260 0300",
+        "ambulance_mobile_number": "+91-343-987654321",
+        "type": "Private",
+        "website": "https://www.iqcitymedicalcollege.in",
+        "image": "https://medical.iqcity.in/wp-content/uploads/2020/02/banner.jpg",
+        "opening_time": "24 hours",
+        "closing_time": "24 hours",
+        "location": "https://maps.google.com/maps?q=IQ+City+Medical+College+%26+Hospital+Durgapur",
+        "special_list": [
+            "Cardiology",
+            "Neurology",
+            "Oncology",
+            "Dermatology"
+        ],
+        "public_rating": 4.3
+    },
+    {
+        "name": "Narayana Multispeciality Hospital",
+        "city": "Howrah",
+        "state": "West Bengal",
+        "address": "Andul Road, Near Nabanna, Howrah, West Bengal 711103",
+        "phone": "+91-33-6600 4050",
+        "ambulance_mobile_number": "+91-33-987654321",
+        "type": "Private",
+        "website": "https://www.narayanahealth.org/hospitals/howrah",
+        "image": "https://medsurgeindia.com/wp-content/uploads/2020/02/Narayana-Multispeciality-Hospital-Bangalore.jpg",
+        "opening_time": "24 hours",
+        "closing_time": "24 hours",
+        "location": "https://maps.google.com/maps?q=Narayana+Multispeciality+Hospital+Howrah",
+        "special_list": [
+            "Cardiology",
+            "Neurology",
+            "Gastroenterology",
+            "Ophthalmology"
+        ],
+        "public_rating": 4.2
+    },
+    {
+        "name": "Belle Vue Clinic",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "address": "9, Dr. U. N. Brahmachari Street, Kolkata, West Bengal 700017",
+        "phone": "+91-33-2287 2321",
+        "ambulance_mobile_number": "+91-33-987654321",
+        "type": "Private",
+        "website": "https://www.bellevueclinic.com",
+        "image": "https://i.ytimg.com/vi/6IZPsV0SqU8/sddefault.jpg",
+        "opening_time": "24 hours",
+        "closing_time": "24 hours",
+        "location": "https://maps.google.com/maps?q=Belle+Vue+Clinic+Kolkata",
+        "special_list": [
+            "Cardiology",
+            "Neurology",
+            "Nephrology",
+            "Dermatology"
+        ],
+        "public_rating": 4.9
+    },
+    {
+        "name": "Rabindranath Tagore International Institute of Cardiac Sciences",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "address": "124, Mukundapur, E.M. Bypass, Kolkata, West Bengal 700099",
+        "phone": "+91-33-7122 2222",
+        "ambulance_mobile_number": "+91-33-987654321",
+        "type": "Private",
+        "website": "https://www.rtiics.org",
+        "image": "https://www.narayanahealth.org/sites/default/files/hospitals/Rttics-Image%20%282%29.jpg",
+        "opening_time": "24 hours",
+        "closing_time": "24 hours",
+        "location": "https://maps.google.com/maps?q=RTIICS+Kolkata",
+        "special_list": [
+            "Cardiology",
+            "Cardiothoracic Surgery",
+            "Anesthesia",
+            "Interventional Cardiology"
+        ],
+        "public_rating": 4.7
+    },
+    {
+        "name": "Peerless Hospital",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "address": "360, Panchasayar, Garia, Kolkata, West Bengal 700094",
+        "phone": "+91-33-2462 2394",
+        "ambulance_mobile_number": "+91-33-987654321",
+        "type": "Private",
+        "website": "https://www.peerlesshospital.com",
+        "image": "https://assets.telegraphindia.com/telegraph/2c893569-428e-4725-843f-98872d70b5af.jpg",
+        "opening_time": "24 hours",
+        "closing_time": "24 hours",
+        "location": "https://maps.google.com/maps?q=Peerless+Hospital+Kolkata",
+        "special_list": [
+            "Cardiology",
+            "Neurology",
+            "Nephrology",
+            "Gastroenterology"
+        ],
+        "public_rating": 4.6
+    },
+    {
+        "name": "Narayana Multispeciality Hospital",
+        "city": "Kalyani",
+        "state": "West Bengal",
+        "address": "Kalyani - Barrackpore Expressway, Kalyani, West Bengal 741245",
+        "phone": "+91-33-6600 8050",
+        "ambulance_mobile_number": "+91-33-987654321",
+        "type": "Private",
+        "website": "https://www.narayanahealth.org/hospitals/kalyani",
+        "image": "https://www.narayanahealth.org/sites/default/files/hospitals/nmh-ahmedabad.jpg",
+        "opening_time": "24 hours",
+        "closing_time": "24 hours",
+        "location": "https://maps.google.com/maps?q=Narayana+Multispeciality+Hospital+Kalyani",
+        "special_list": [
+            "Cardiology",
+            "Neurology",
+            "Gastroenterology",
+            "Pediatrics"
+        ],
+        "public_rating": 4.5
+    },
+    {
+        "name": "KPC Medical College and Hospital",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "address": "1F, Raja Subodh Chandra Mullick Road, Jadavpur, Kolkata, West Bengal 700032",
+        "phone": "+91-33-3001 6000",
+        "ambulance_mobile_number": "+91-33-987654321",
+        "type": "Private",
+        "website": "https://www.kpcmedicalcollege.org",
+        "image": "https://images.shiksha.com/mediadata/images/1600746929phpuPAIMj.jpeg",
+        "opening_time": "24 hours",
+        "closing_time": "24 hours",
+        "location": "https://maps.google.com/maps?q=KPC+Medical+College+and+Hospital+Kolkata",
+        "special_list": [
+            "Cardiology",
+            "Neurology",
+            "Oncology",
+            "ENT"
+        ],
+        "public_rating": 4.4
+    },
+    {
+        "name": "ILS Hospitals",
+        "city": "Agarpara",
+        "state": "West Bengal",
+        "address": "1, Khudiram Bose Sarani, Agarpara, Kolkata, West Bengal 700058",
+        "phone": "+91-33-4031 3000",
+        "ambulance_mobile_number": "+91-33-987654321",
+        "type": "Private",
+        "website": "https://www.ilshospitals.com",
+        "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://ilshospitals.com/wp-content/uploads/2019/03/dumdum.jpg",
+        "opening_time": "24 hours",
+        "closing_time": "24 hours",
+        "location": "https://maps.google.com/maps?q=ILS+Hospitals+Agarpara",
+        "special_list": [
+            "Cardiology",
+            "Neurology",
+            "Orthopedics",
+            "Gynecology"
+        ],
+        "public_rating": 4.3
+    },
+    {
+        "name": "Charnock Hospital",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "address": "RGM-2103, Teghoria, VIP Road, Kolkata, West Bengal 700059",
+        "phone": "+91-33-4050 5050",
+        "ambulance_mobile_number": "+91-33-987654321",
+        "type": "Private",
+        "website": "https://www.charnockhospital.com",
+        "image": "https://sys.mediflam.com/OfflineUploads/HospitalImage/Charnock_hospital_3.jpg",
+        "opening_time": "24 hours",
+        "closing_time": "24 hours",
+        "location": "https://maps.google.com/maps?q=Charnock+Hospital+Kolkata",
+        "special_list": [
+            "Cardiology",
+            "Neurology",
+            "Nephrology",
+            "Pediatrics"
+        ],
+        "public_rating": 4.2
+    },
+    {
+        "name": "R. G. Kar Medical College and Hospital",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "address": "1, Khudiram Bose Sarani, Shyambazar, Kolkata, West Bengal 700004",
+        "phone": "+91-33-2555 7656",
+        "ambulance_mobile_number": "+91-33-987654321",
+        "type": "Government",
+        "website": "http://www.rgkarmedicalcollege.org",
+        "image": "https://cdn.hexahealth.com/Image/f6dba197-aafa-458c-80e2-cbfc7401ed82.jpg",
+        "opening_time": "24 hours",
+        "closing_time": "24 hours",
+        "location": "https://maps.google.com/maps?q=R.+G.+Kar+Medical+College+and+Hospital+Kolkata",
+        "special_list": [
+            "General Surgery",
+            "Gynecology",
+            "Pediatrics"
+        ],
+        "public_rating": 4.1
+    },
+    {
+        "name": "North Bengal Medical College and Hospital",
+        "city": "Siliguri",
+        "state": "West Bengal",
+        "address": "Sushruta Nagar, District Darjeeling, Siliguri, West Bengal 734012",
+        "phone": "+91-353-258 5478",
+        "ambulance_mobile_number": "+91-353-987654321",
+        "type": "Government",
+        "website": "http://www.nbmc.ac.in",
+        "image": "https://www.nbdch.in/images/facility/fc1.jpg",
+        "opening_time": "24 hours",
+        "closing_time": "24 hours",
+        "location": "https://maps.google.com/maps?q=North+Bengal+Medical+College+and+Hospital+Siliguri",
+        "special_list": [
+            "General Medicine",
+            "General Surgery",
+            "Orthopedics",
+            "Pediatrics"
+        ],
+        "public_rating": 4.0
+    },
+    {
+        "name": "Jawaharlal Nehru Memorial Hospital",
+        "city": "Kalyani",
+        "state": "West Bengal",
+        "address": "Kalyani - Barrackpore Expressway, Kalyani, West Bengal 741245",
+        "phone": "+91-33-2502 6000",
+        "ambulance_mobile_number": "+91-33-987654321",
+        "type": "Government",
+        "website": "http://www.jnmh.in",
+        "image": "https://ptjnmcraipur.in/image/slide9.jpg",
+        "opening_time": "24 hours",
+        "closing_time": "24 hours",
+        "location": "https://maps.google.com/maps?q=Jawaharlal+Nehru+Memorial+Hospital+Kalyani",
+        "special_list": [
+            "General Medicine",
+            "General Surgery",
+            "Gynecology",
+            "Pediatrics"
+        ],
+        "public_rating": 3.9
+    },
+    {
+        "name": "Medical College and Hospital",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "address": "88, College Street, Kolkata, West Bengal 700073",
+        "phone": "+91-33-2255 1621",
+        "ambulance_mobile_number": "+91-33-987654321",
+        "type": "Government",
+        "website": "http://medicalcollegekolkata.in",
+        "image": "https://tmc.kerala.gov.in/assets/web/images/home/h6.jpg",
+        "opening_time": "24 hours",
+        "closing_time": "24 hours",
+        "location": "https://maps.google.com/maps?q=Medical+College+and+Hospital+Kolkata",
+        "special_list": [
+            "General Medicine",
+            "Gynecology",
+            "Obstetrics ",
+            "Pediatrics"
+        ],
+        "public_rating": 3.8
+    },
+    {
+        "name": "NRS Medical College and Hospital",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "address": "138, Acharya Jagadish Chandra Bose Road, Kolkata, West Bengal 700014",
+        "phone": "+91-33-2244 4700",
+        "ambulance_mobile_number": "+91-33-987654321",
+        "type": "Government",
+        "website": "http://www.nrsmc.edu.in",
+        "image": "https://www.nrsmc.edu.in/assets/uploads/slider/8aafe-r_dsc3101.jpg",
+        "opening_time": "24 hours",
+        "closing_time": "24 hours",
+        "location": "https://maps.google.com/maps?q=NRS+Medical+College+and+Hospital+Kolkata",
+        "special_list": [
+            "General Medicine",
+            "General Surgery",
+            "Orthopedics",
+            "Pediatrics"
+        ],
+        "public_rating": 3.7
+    },
+    {
+        "name": "All India Institute of Medical Sciences (AIIMS) Patna",
+        "city": "Patna",
+        "state": "Bihar",
+        "address": "Phulwari Sharif, Patna, Bihar 801507",
+        "phone": "+91-612-245 1070",
+        "ambulance_mobile_number": "+91-612-987654321",
+        "type": "Government",
+        "website": "https://aiimspatna.org",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScysnBdVMW9sjCKkG-CgOSjKtLVdkAxkeE0dG5CNlbXxG5Rv4kePIec1F2n9T9TfSuegY&usqp=CAU",
+        "opening_time": "24 hours",
+        "closing_time": "24 hours",
+        "location": "https://maps.google.com/maps?q=AIIMS+Patna",
+        "special_list": [
+            "General Medicine",
+            "General Surgery",
+            "Orthopedics",
+            "Pediatrics"
+        ],
+        "public_rating": 4.9
+    },
+    {
+        "name": "Indira Gandhi Institute of Medical Sciences (IGIMS)",
+        "city": "Patna",
+        "state": "Bihar",
+        "address": "Sheikhpura, Patna, Bihar 800014",
+        "phone": "+91-612-229 7099",
+        "ambulance_mobile_number": "+91-612-987654321",
+        "type": "Government",
+        "website": "https://www.igims.org",
+        "image": "https://www.edufever.com/wp-content/uploads/2021/12/IGIMS-Patna-jpg.webp",
+        "opening_time": "24 hours",
+        "closing_time": "24 hours",
+        "location": "https://maps.google.com/maps?q=IGIMS+Patna",
+        "special_list": [
+            "General Medicine",
+            "General Surgery",
+            "Neurology",
+            "Cardiology"
+        ],
+        "public_rating": 4.8
+    },
+    {
+        "name": "Nalanda Medical College and Hospital",
+        "city": "Patna",
+        "state": "Bihar",
+        "address": "Agamkuan, Gulzarbagh, Patna, Bihar 800007",
+        "phone": "+91-612-263 1159",
+        "ambulance_mobile_number": "+91-612-987654321",
+        "type": "Government",
+        "website": "http://www.nmchpatna.org",
+        "image": "https://images.collegedunia.com/public/college_data/images/campusimage/1415773079nmc2.jpg",
+        "opening_time": "24 hours",
+        "closing_time": "24 hours",
+        "location": "https://maps.google.com/maps?q=Nalanda+Medical+College+and+Hospital+Patna",
+        "special_list": [
+            "General Medicine",
+            "Gynecology",
+            "Obstetrics",
+            "Pediatrics"
+        ],
+        "public_rating": 4.7
+    },
+    {
+        "name": "Patna Medical College and Hospital",
+        "city": "Patna",
+        "state": "Bihar",
+        "address": "Ashok Rajpath, Patna, Bihar 800004",
+        "phone": "+91-612-230 0343",
+        "ambulance_mobile_number": "+91-612-987654321",
+        "type": "Government",
+        "website": "http://www.pmchpatna.com",
+        "image": "https://medicaldialogues.in/h-upload/2022/10/13/187880-pmch.webp",
+        "opening_time": "24 hours",
+        "closing_time": "24 hours",
+        "location": "https://maps.google.com/maps?q=Patna+Medical+College+and+Hospital",
+        "special_list": [
+            "General Medicine",
+            "General Surgery",
+            "Orthopedics",
+            "Cardiology"
+        ],
+        "public_rating": 4.6
+    }
+]
