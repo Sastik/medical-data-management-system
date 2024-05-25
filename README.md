@@ -1,6 +1,6 @@
 # medical-data-management-system
 
-This is our College Final Year Project using Block-chain based MERN app building By Sastik-Santu-Sayantika
+This is our College 7th Semester Project using MERN app 
 
 To initialize our project first clone the project
 Then follow the bellow step
