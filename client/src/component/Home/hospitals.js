@@ -3,14 +3,27 @@ import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 import { GiOpeningShell } from "react-icons/gi";
 import { RiHospitalFill } from "react-icons/ri";
+import axios from 'axios';
 
 export const Hospitals = ({ state, city }) => {
   const [hospitals, setHospitals] = useState([]);
-  useEffect(() => {
-    fetch(`/api/hospitals/filter?state=${state}&city=${city}`)
-      .then((response) => response.json())
-      .then((data) => setHospitals(data))
-      .catch((error) => console.error("Error fetching hospitals:", error));
+
+   useEffect(() => {
+    const fetchHospitals = async () => {
+      try {
+        const response = await axios.get(`${process.env.REACT_APP_API_URL}api/hospitals/filter`, {
+          params: {
+            state: state,
+            city: city
+          }
+        });
+        setHospitals(response.data);
+      } catch (error) {
+        console.error("Error fetching hospitals:", error);
+      }
+    };
+
+    fetchHospitals();
   }, [state, city]);
 
   const responsive = {

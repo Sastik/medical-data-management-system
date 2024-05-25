@@ -1,14 +1,28 @@
+import axios from "axios";
 import React, { useState, useEffect } from "react";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 
 export const CareTakker = ({ state, city }) => {
   const [CareTakker, setCareTakker] = useState([]);
-  useEffect(() => {
-    fetch(`/api/caretackers/filter?state=${state}&city=${city}`)
-      .then((response) => response.json())
-      .then((data) => setCareTakker(data))
-      .catch((error) => console.error("Error fetching CareTakker:", error));
+
+
+    useEffect(() => {
+    const fetchCareTakkers = async () => {
+      try {
+        const response = await axios.get(`${process.env.REACT_APP_API_URL}api/caretackers/filter`, {
+          params: {
+            state: state,
+            city: city
+          }
+        });
+        setCareTakker(response.data);
+      } catch (error) {
+        console.error("Error fetching CareTakker:", error);
+      }
+    };
+
+    fetchCareTakkers();
   }, [state, city]);
 
   const responsive = {
