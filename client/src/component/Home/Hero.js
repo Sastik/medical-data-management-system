@@ -36,7 +36,7 @@ export const Hero = ({ onFindHospital }) => {
         <div className="relative w-full h-full">
           <video
             className="w-full h-full object-cover"
-            src="https://v4.cdnpk.net/videvo_files/video/free/video0484/large_watermarked/_import_60e9313090cf28.81013704_FPpreview.mp4"
+            src="https://videocdn.cdnpk.net/joy/content/video/free/video0484/large_preview/_import_60e9313090cf28.81013704.mp4?filename=1117879_1080p_4k_2k_3840x2160.mp4"
             autoPlay
             loop
             muted

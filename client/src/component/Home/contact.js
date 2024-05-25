@@ -8,12 +8,12 @@ export const Contact = () => {
         <div className="relative w-full h-full flex items-center justify-center">
           <video
             className="w-full h-full object-cover "
-            src="https://v4.cdnpk.net/videvo_files/video/free/video0478/large_watermarked/_import_625a512e233c84.47154637_FPpreview.mp4"
+            src="https://videocdn.cdnpk.net/cdn/content/video/free/video0538/large_preview/_import_6305b16e629559.98175224.mp4?filename=1475028_people_business_3840x2160.mp4"
             autoPlay
             loop
             muted
           />
-          <h1 className="absolute font-semibold text-white text-3xl font-semibol bg-gradient-to-r from-teal-400 p-5 rounded-md">
+          <h1 className="absolute font-semibold text-white text-3xl font-semibol bg-gradient-to-l from-teal-400 p-5 rounded-md">
           GET IN TOUCH WITH US
           </h1>
         </div>

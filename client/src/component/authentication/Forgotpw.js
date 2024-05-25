@@ -33,7 +33,7 @@ export const Forgotpw = () => {
         <div className="relative w-full h-full">
           <video
             className="w-full h-full object-cover"
-            src="https://v4.cdnpk.net/videvo_files/video/free/video0455/large_watermarked/_import_609115c00e5a15.53371416_FPpreview.mp4"
+            src="https://videocdn.cdnpk.net/joy/content/video/free/video0484/large_preview/_import_61a5d017a01043.11657738.mp4?filename=1118322_form_graphic_structure_3840x2160.mp4"
             autoPlay
             loop
             muted

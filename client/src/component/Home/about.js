@@ -33,7 +33,7 @@ export const Aboutus = () => {
                 <div className="w-full px-3 sm:px-4 xl:w-1/2">
                   <div className="py-3 sm:py-4">
                     <img
-                      src="https://www.cartika.com/web/default/files/users/12/Online%20Personal%20Information%20Storage.jpg"
+                      src="https://img.freepik.com/free-photo/3d-cryptocurrency-rendering-design_23-2149074561.jpg?t=st=1714036474~exp=1714040074~hmac=7cfcb04b072ba1c3242075fc1dc4cd7cbf44f7d44eb31635e5d76bd5c4629025&w=740"
                       alt=""
                       className="w-full h-48 sm:h-[300px] rounded-2xl"
                     />

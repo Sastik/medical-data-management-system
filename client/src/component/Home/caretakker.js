@@ -39,14 +39,15 @@ export const CareTakker = ({ state, city }) => {
         <div className="relative w-full h-full flex items-center justify-center">
           <video
             className="w-full h-full object-cover "
-            src="https://v4.cdnpk.net/videvo_files/video/free/video0462/large_watermarked/_import_60fa5e9fd08ab6.93633003_FPpreview.mp4"
+            src="https://videocdn.cdnpk.net/joy/content/video/free/video0462/large_preview/_import_60fa8679e10a55.83315257.mp4?filename=1107237_1080p_care_sanitary_1920x1080.mp4"
             autoPlay
             loop
             muted
           />
-          <h1 className="absolute text-white font-semibold text-3xl font-semibol ">
-            Are You need CareTaker....
+          <h1 className="absolute font-semibold text-white text-3xl font-semibol bg-gradient-to-l from-teal-400 p-5 rounded-md">
+          Are You need CareTaker....
           </h1>
+         
         </div>
       </div>
 

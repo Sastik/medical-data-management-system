@@ -41,11 +41,12 @@ export const Hospitals = ({ state, city }) => {
         <div className="relative w-full h-full flex items-center justify-center">
           <video
             className="w-full h-full object-cover "
-            src="https://v4.cdnpk.net/videvo_files/video/free/video0462/large_watermarked/_import_60fa731aa34613.18713168_FPpreview.mp4"
+            src="https://videocdn.cdnpk.net/joy/content/video/free/video0468/large_preview/_import_616128d26013d6.14953000.mp4?filename=1110036_surgical_blurred_procedure_1920x1080.mp4"
             autoPlay
             loop
             muted
           />
+          
           <h1 className="absolute text-white font-semibold text-3xl font-semibol ">
             Hospital near you finding....
           </h1>
